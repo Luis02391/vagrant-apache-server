@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/rodri/Desktop/tareas/vagrant-apache-server/webpages","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/rodri/Desktop/tareas/vagrant-apache-server","disabled":false,"__vagrantfile":true}}}
